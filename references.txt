@@ -1,0 +1,5 @@
+references
+http://jorshasaur.us/remove-trailing-whitespace-in-sublime-text/
+https://developer.mozilla.org/en-US/docs/Web/HTML/Element
+http://www.w3schools.com/css/css_border.asp
+http://getbootstrap.com/css/
